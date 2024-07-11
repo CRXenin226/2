@@ -1,0 +1,9 @@
+<dependencies>
+    <!-- MySQL JDBC driver -->
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>8.0.25</version> <!-- 请使用最新版本 -->
+    </dependency>
+    <!-- 其他依赖项 -->
+</dependencies>
